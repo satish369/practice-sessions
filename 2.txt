@@ -2,3 +2,5 @@ hyderabad
 bangalore
 chennai
 vizag
+tirupathi
+piler
